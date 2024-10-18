@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 <h2> Welcome to my GitHub! </h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="<img src="https://capsule-render.vercel.app/api?text=Welcome&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>

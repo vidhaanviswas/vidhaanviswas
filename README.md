@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 <h2> Welcome to my GitHub! </h2>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/animation-animated-gif-xTiTnxpQ3ghPiB2Hp6"/>
+  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif"/>
 </p>

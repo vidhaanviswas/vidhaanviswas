@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on different domain projects.
 - 🤔 I’m looking for help with exciting project ideas.
 - 💬 Ask me about anything.
-- 📫 How to reach me: <a href="https://vidhaanviswas.netlify.app/" target="_blank">Text Me</a>
+- 📫 How to reach me: [Text Me](https://vidhaanviswas.netlify.app/)
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: Facts are full of Fun.
 <hr>

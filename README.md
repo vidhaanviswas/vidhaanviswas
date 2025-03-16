@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/vidhaanviswas/vidhaanviswas/blob/main/head.png)
+![Header](https://raw.githubusercontent.com/vidhaanviswas/vidhaanviswas/main/head.png)
 
 <h1 align="center">Hi there, I'm Vidhaan Viswas 👋🚀</h1>
 <p align="center">

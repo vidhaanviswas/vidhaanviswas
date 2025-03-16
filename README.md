@@ -56,8 +56,8 @@
 
 ## 🎨 **GitHub Contribution Insights**
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vidhaanviswas&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vidhaanviswas&theme=radical" />
+<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vidhaanviswas&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vidhaanviswas&theme=radical" /> -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vidhaanviswas&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vidhaanviswas&theme=radical&utcOffset=8" />
 </p>

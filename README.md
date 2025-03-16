@@ -44,7 +44,7 @@
 
 ## 🏆 **GitHub Achievements**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vidhaanviswas&theme=dracula&no-frame=false"/>
+  <img src="https://github-profile-trophy.vercel.app/?vidhaanviswas=ryo-ma&no-bg=true"/>
 </p>
 
 ---

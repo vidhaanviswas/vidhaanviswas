@@ -42,13 +42,6 @@
 
 ---
 
-## 🏆 **GitHub Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vidhaanviswas&theme=dracula&no-frame=false"/>
-</p>
-
----
-
 ## 📈 **GitHub Activity Graph**
 [![Vidhaan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vidhaanviswas&theme=dracula)](https://github.com/vidhaanviswas)
 

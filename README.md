@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Vidhaan Viswas 👋🚀</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=+Software+Developer+Engineer+🚀+%7C+Open+Source+Contributor;Cyber+Security+Learner+%7C+Problem+Solver;Innovator+%7C+AI%2FML+Enthusiast+%7C+Coder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Developer+Engineer+%7C+Cloud+%26+Distributed+Systems;Secure+Application+Development+%7C+Cybersecurity+%26+DevSecOps;AI%2FML+Enthusiast+%7C+Building+Scalable%2C+Reliable%2C+Production-Ready+Systems" />
 </p>
 
 ---

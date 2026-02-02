@@ -75,7 +75,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/vidhaanviswas"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://x.com/vidhaanviswas"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:vidhaanviswas9204@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:vidhaanvishwas@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
